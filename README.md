@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chetan Kshirsagar 
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning Full-Stack Development(MERN)
-- 💞️ I’m looking to collaborate on GitHub , X(Twitter) and LinkedIn 
+- 💞️ I’m looking to collaborate on a Major project.
 - 📫 Reach me on my e-mail "chetankshirsagar87@gmail.com"
 - 😄 Pronouns: Cheh-tahn Ksheer-suh-gar
 
